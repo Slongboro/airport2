@@ -14,6 +14,8 @@ an airport and confirm that it has landed
 - Changed the plane unit test, added a double so that plane recognises airport and the method clearForlanding.
 - Added an aiport method to Plane to enable the plane unit test to pass
 - Added a test to airport to test the plane being able to land, added a double for plane
+- Added code to airport to add the plane that has landed to the hangar, making the unit test pass that was expecting to see the plane that had landed.
+- Fixed a but that was stopping the feature test passing.
 
 
 As an air traffic controller

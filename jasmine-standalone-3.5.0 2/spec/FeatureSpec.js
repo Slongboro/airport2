@@ -7,7 +7,7 @@ describe('Feature Test:', function() {
 
     beforeEach(function() {
         plane = new Plane();
-        airport = new airport()
+        airport = new Airport()
     });
 
     it('planes can be instructed to land at the airport', function() {
