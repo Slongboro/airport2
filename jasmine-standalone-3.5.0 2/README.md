@@ -24,6 +24,7 @@ I want to instruct a plane to take off from
 an airport and confirm that it is no longer in the airport
 
 - Added takeoff test to the feature tests, failing as takeoff doesn't exist yet
+- Added takeoff to the unit test which is failing for the same reason as the feature test
 
 As an air traffic controller
 To ensure safety
