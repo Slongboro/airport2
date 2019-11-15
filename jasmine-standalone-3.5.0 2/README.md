@@ -12,6 +12,7 @@ an airport and confirm that it has landed
 - Added the Plane function code to an src file to enable the unit test to pass, ensuring a plane can land.
 - Added code for an airport function with an empty planes array.
 - Changed the plane unit test, added a double so that plane recognises airport and the method clearForlanding.
+- Added an aiport method to Plane to enable the plane unit test to pass
 
 
 As an air traffic controller
